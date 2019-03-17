@@ -9,9 +9,9 @@
             "email": "management@andreaspabst.com"
         }
     ],
-    "require": { 
-        "laravel/lumen-framework": "^5.7.*",
-        "illuminate/support": "^5.4"
+    "require": {
+        "laravel/lumen-framework": ">=5.7",
+        "illuminate/support": ">=5.4"
     },
     "license": "MIT",
     "autoload": {
