@@ -2,7 +2,7 @@
 Adds the well known Laravel ability to separate validations from the controller.
 
 ## Installation
-First use composer to install the package.
+First use composer to install the package..
  
 `composer require andreaspabst/lumen-request-validation`
 
